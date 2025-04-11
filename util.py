@@ -1,5 +1,5 @@
 import numpy as np
-
+import cv2
 class_colors = {
     "Beam": [0, 128, 128],  # Teal
     "Ceiling": [0, 255, 255],  # Cyan
