@@ -4,7 +4,6 @@ class_colors = {
     "Beam": [0, 128, 128],  # Teal
     "Ceiling": [0, 255, 255],  # Cyan
     "Column": [0, 0, 255],  # Blue
-    "Ductwork": [128, 0, 0],  # Dark Red
     "Floor": [0, 255, 0],  # Green
     "Pipe": [255, 0, 255],  # Magenta
     "Stairs": [255, 255, 0],  # Yellow

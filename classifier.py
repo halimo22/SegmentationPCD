@@ -13,7 +13,7 @@ class EfficientNetB7Classifier(nn.Module):
             nn.Linear(128, num_classes)
             
         )
-        self.class_names = ['Beam','Ceiling','Column','Ductwork', 'Floor', 'Pipe','Stairs', 'Wall']
+        self.class_names = ['Beam','Ceiling','Column', 'Floor', 'Pipe','Stairs', 'Wall']
 
     
     def forward(self, x):
